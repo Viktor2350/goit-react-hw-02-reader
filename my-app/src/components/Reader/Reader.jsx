@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Controls from './Controls/Controls';
+import Controls from '../Controls/Controls';
 import Publication from '../Publication/Publication';
 import styles from './Reader.module.css';
 
